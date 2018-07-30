@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/karlisson/.android/build-cache/b081b9ac7ce04b1d02969c563bc68903312b1815/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/karlisson/react_native/BinaryCalculator/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_ff469c900b24550d24dcfdfe2f062a0c2818d960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/karlisson/.android/build-cache/b081b9ac7ce04b1d02969c563bc68903312b1815/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/karlisson/react_native/BinaryCalculator/android/app/build/intermediates/pre-dexed/debug/classes_3f2b0c9aab9b8bc39bd3f990057e7c6d1894107e.jar" />
+    </item>
+
+</items>

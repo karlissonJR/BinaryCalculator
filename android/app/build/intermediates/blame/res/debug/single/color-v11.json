@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/karlisson/react_native/BinaryCalculator/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BinaryCalculator/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
